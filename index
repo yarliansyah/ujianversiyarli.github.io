@@ -145,7 +145,7 @@
   <!-- ================= 3. SCRIPT LOGIKA FRONTEND ================= -->
   <script>
     // GANTI DENGAN URL GOOGLE APPS SCRIPT ANDA
-    const SCRIPT_URL = "GANTI_DENGAN_URL_GOOGLE_APPS_SCRIPT_ANDA";
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxv04CGYndnIapm0PaVElRzGSre-Q3TJaoeiHIE7wBgb_LcVVkgQbFUtyHOiXb1fnHt/exec";
 
     let dataPeserta = [];
     let dataSoal = [];
